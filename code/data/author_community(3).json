@@ -1,0 +1,1540 @@
+{
+    "authors": [
+        {
+            "author": "A. Pang",
+            "community": 0
+        },
+        {
+            "author": "Nivedita Kadaba",
+            "community": 1
+        },
+        {
+            "author": "Jason Leboe",
+            "community": 1
+        },
+        {
+            "author": "Pourang Irani",
+            "community": 1
+        },
+        {
+            "author": "Aditi Majumder",
+            "community": 2
+        },
+        {
+            "author": "Amitabh Varshney",
+            "community": 3
+        },
+        {
+            "author": "B.E. Rogowitz",
+            "community": 4
+        },
+        {
+            "author": "R. Scopigno",
+            "community": 5
+        },
+        {
+            "author": "C. Montani",
+            "community": 5
+        },
+        {
+            "author": "P. Cignoni",
+            "community": 5
+        },
+        {
+            "author": "D. Silver",
+            "community": 6
+        },
+        {
+            "author": "J. Schneider",
+            "community": 7
+        },
+        {
+            "author": "R. Wegenkittl",
+            "community": 7
+        },
+        {
+            "author": "R. Machiraju",
+            "community": 7
+        },
+        {
+            "author": "H.-C. Hege",
+            "community": 7
+        },
+        {
+            "author": "A. Varshney",
+            "community": 7
+        },
+        {
+            "author": "C. Hansen",
+            "community": 7
+        },
+        {
+            "author": "X. Tricoche",
+            "community": 7
+        },
+        {
+            "author": "T. Moller",
+            "community": 7
+        },
+        {
+            "author": "C.T. Silva",
+            "community": 7
+        },
+        {
+            "author": "E. Groller",
+            "community": 7
+        },
+        {
+            "author": "N. Max",
+            "community": 7
+        },
+        {
+            "author": "G. Kindlmann",
+            "community": 7
+        },
+        {
+            "author": "T. Tasdizen",
+            "community": 7
+        },
+        {
+            "author": "G. Erlebacher",
+            "community": 7
+        },
+        {
+            "author": "R. Crawfis",
+            "community": 7
+        },
+        {
+            "author": "M. Isenburg",
+            "community": 7
+        },
+        {
+            "author": "P. Lindstrom",
+            "community": 7
+        },
+        {
+            "author": "A. Kaufman",
+            "community": 7
+        },
+        {
+            "author": "S. Guthe",
+            "community": 7
+        },
+        {
+            "author": "D.C. Banks",
+            "community": 7
+        },
+        {
+            "author": "V. Pascucci",
+            "community": 7
+        },
+        {
+            "author": "J. Kniss",
+            "community": 7
+        },
+        {
+            "author": "R. Yagel",
+            "community": 7
+        },
+        {
+            "author": "G. Scheuermann",
+            "community": 7
+        },
+        {
+            "author": "A. Kanitsar",
+            "community": 7
+        },
+        {
+            "author": "M.E. Groller",
+            "community": 7
+        },
+        {
+            "author": "C.L. Bajaj",
+            "community": 7
+        },
+        {
+            "author": "H. Hagen",
+            "community": 7
+        },
+        {
+            "author": "D. Fleischmann",
+            "community": 7
+        },
+        {
+            "author": "H.-P. Seidel",
+            "community": 7
+        },
+        {
+            "author": "C. Garth",
+            "community": 7
+        },
+        {
+            "author": "B. Jobard",
+            "community": 7
+        },
+        {
+            "author": "K. Mueller",
+            "community": 7
+        },
+        {
+            "author": "W. Strasser",
+            "community": 7
+        },
+        {
+            "author": "Fei Wang",
+            "community": 7
+        },
+        {
+            "author": "D. Cohen-Or",
+            "community": 7
+        },
+        {
+            "author": "G.M. Nielson",
+            "community": 7
+        },
+        {
+            "author": "H. Hauser",
+            "community": 7
+        },
+        {
+            "author": "T. Ertl",
+            "community": 7
+        },
+        {
+            "author": "W.E. Lorensen",
+            "community": 7
+        },
+        {
+            "author": "C.R. Johnson",
+            "community": 7
+        },
+        {
+            "author": "S. Gumhold",
+            "community": 7
+        },
+        {
+            "author": "W.J. Schroeder",
+            "community": 7
+        },
+        {
+            "author": "C.D. Hansen",
+            "community": 7
+        },
+        {
+            "author": "K.I. Joy",
+            "community": 7
+        },
+        {
+            "author": "B. Hamann",
+            "community": 7
+        },
+        {
+            "author": "Y. Livnat",
+            "community": 7
+        },
+        {
+            "author": "R.S. Laramee",
+            "community": 7
+        },
+        {
+            "author": "Ye Zhao",
+            "community": 7
+        },
+        {
+            "author": "P. Rheingans",
+            "community": 7
+        },
+        {
+            "author": "Heidi Lam",
+            "community": 8
+        },
+        {
+            "author": "Michelle X. Zhou",
+            "community": 8
+        },
+        {
+            "author": "Xiaoyu Wang",
+            "community": 8
+        },
+        {
+            "author": "Emily Wall",
+            "community": 8
+        },
+        {
+            "author": "Robert Kosara",
+            "community": 8
+        },
+        {
+            "author": "Jing Yang",
+            "community": 8
+        },
+        {
+            "author": "M.O. Ward",
+            "community": 8
+        },
+        {
+            "author": "Ji Soo Yi",
+            "community": 8
+        },
+        {
+            "author": "Caroline Ziemkiewicz",
+            "community": 8
+        },
+        {
+            "author": "Alex Endert",
+            "community": 8
+        },
+        {
+            "author": "Lei Shi",
+            "community": 8
+        },
+        {
+            "author": "David H. Laidlaw",
+            "community": 8
+        },
+        {
+            "author": "Eli T. Brown",
+            "community": 8
+        },
+        {
+            "author": "Jaegul Choo",
+            "community": 8
+        },
+        {
+            "author": "Hannah Kim",
+            "community": 8
+        },
+        {
+            "author": "William Ribarsky",
+            "community": 8
+        },
+        {
+            "author": "Sung-Hee Kim",
+            "community": 8
+        },
+        {
+            "author": "E.A. Rundensteiner",
+            "community": 8
+        },
+        {
+            "author": "Remco Chang",
+            "community": 8
+        },
+        {
+            "author": "Wenwen Dou",
+            "community": 8
+        },
+        {
+            "author": "Haesun Park",
+            "community": 8
+        },
+        {
+            "author": "Sukwon Lee",
+            "community": 8
+        },
+        {
+            "author": "Yun Jang",
+            "community": 9
+        },
+        {
+            "author": "Daniel Weiskopf",
+            "community": 9
+        },
+        {
+            "author": "Steffen Koch",
+            "community": 9
+        },
+        {
+            "author": "Florian Heimerl",
+            "community": 9
+        },
+        {
+            "author": "Niklas Elmqvist",
+            "community": 9
+        },
+        {
+            "author": "Abish Malik",
+            "community": 9
+        },
+        {
+            "author": "Min Chen",
+            "community": 9
+        },
+        {
+            "author": "Ross Maciejewski",
+            "community": 9
+        },
+        {
+            "author": "Harald Bosch",
+            "community": 9
+        },
+        {
+            "author": "Michael W\u00f6rner",
+            "community": 9
+        },
+        {
+            "author": "Marcel Hlawatsch",
+            "community": 9
+        },
+        {
+            "author": "David S. Ebert",
+            "community": 9
+        },
+        {
+            "author": "Kuno Kurzhals",
+            "community": 9
+        },
+        {
+            "author": "Yafeng Lu",
+            "community": 9
+        },
+        {
+            "author": "Dennis Thom",
+            "community": 9
+        },
+        {
+            "author": "Thomas Ertl",
+            "community": 9
+        },
+        {
+            "author": "Michael Burch",
+            "community": 9
+        },
+        {
+            "author": "Filip Sadlo",
+            "community": 9
+        },
+        {
+            "author": "Fabian Beck",
+            "community": 9
+        },
+        {
+            "author": "Heike Hofmann",
+            "community": 10
+        },
+        {
+            "author": "J. Stasko",
+            "community": 11
+        },
+        {
+            "author": "J.J. Van Wijk",
+            "community": 12
+        },
+        {
+            "author": "Jan-Henrik Haunert",
+            "community": 13
+        },
+        {
+            "author": "H. Wright",
+            "community": 14
+        },
+        {
+            "author": "K. Brodlie",
+            "community": 14
+        },
+        {
+            "author": "J. Wood",
+            "community": 14
+        },
+        {
+            "author": "Thorsten May",
+            "community": 15
+        },
+        {
+            "author": "Jorik Blaas",
+            "community": 15
+        },
+        {
+            "author": "Camilla Forsell",
+            "community": 15
+        },
+        {
+            "author": "Christian Tominski",
+            "community": 15
+        },
+        {
+            "author": "Natalia Andrienko",
+            "community": 15
+        },
+        {
+            "author": "Heidrun Schumann",
+            "community": 15
+        },
+        {
+            "author": "Gennady Andrienko",
+            "community": 15
+        },
+        {
+            "author": "Timo Ropinski",
+            "community": 15
+        },
+        {
+            "author": "Anders Persson",
+            "community": 15
+        },
+        {
+            "author": "Jarke J. van Wijk",
+            "community": 15
+        },
+        {
+            "author": "Jimmy Johansson",
+            "community": 15
+        },
+        {
+            "author": "Silvia Miksch",
+            "community": 15
+        },
+        {
+            "author": "Anders Ynnerman",
+            "community": 15
+        },
+        {
+            "author": "Stef van den Elzen",
+            "community": 15
+        },
+        {
+            "author": "Charl Botha",
+            "community": 15
+        },
+        {
+            "author": "Frits Post",
+            "community": 15
+        },
+        {
+            "author": "L. Hesselink",
+            "community": 16
+        },
+        {
+            "author": "M. Eduard Groller",
+            "community": 17
+        },
+        {
+            "author": "Helmut Doleisch",
+            "community": 17
+        },
+        {
+            "author": "Alireza Entezari",
+            "community": 17
+        },
+        {
+            "author": "Stefan Bruckner",
+            "community": 17
+        },
+        {
+            "author": "Kresimir Matkovic",
+            "community": 17
+        },
+        {
+            "author": "Kai Lawonn",
+            "community": 17
+        },
+        {
+            "author": "Christoph Heinzl",
+            "community": 17
+        },
+        {
+            "author": "Roy van Pelt",
+            "community": 17
+        },
+        {
+            "author": "Bernhard Preim",
+            "community": 17
+        },
+        {
+            "author": "Michael Sedlmair",
+            "community": 17
+        },
+        {
+            "author": "Phong H. Nguyen",
+            "community": 17
+        },
+        {
+            "author": "Cagatay Turkay",
+            "community": 17
+        },
+        {
+            "author": "Aidan Slingsby",
+            "community": 17
+        },
+        {
+            "author": "Denis Gracanin",
+            "community": 17
+        },
+        {
+            "author": "Tobias Isenberg",
+            "community": 17
+        },
+        {
+            "author": "Thomas M\u00fchlbacher",
+            "community": 17
+        },
+        {
+            "author": "Helwig Hauser",
+            "community": 17
+        },
+        {
+            "author": "Eduard Gr\u00f6ller",
+            "community": 17
+        },
+        {
+            "author": "Philipp Muigg",
+            "community": 17
+        },
+        {
+            "author": "M. Eduard Gr\u00f6ller",
+            "community": 17
+        },
+        {
+            "author": "Eduard Groller",
+            "community": 17
+        },
+        {
+            "author": "Rocco Gasteiger",
+            "community": 17
+        },
+        {
+            "author": "Thomas H\u00f6llt",
+            "community": 17
+        },
+        {
+            "author": "Johannes Kehrer",
+            "community": 17
+        },
+        {
+            "author": "Torsten Moller",
+            "community": 17
+        },
+        {
+            "author": "Thomas Schultz",
+            "community": 17
+        },
+        {
+            "author": "Raphael Fuchs",
+            "community": 17
+        },
+        {
+            "author": "Steven Bergner",
+            "community": 17
+        },
+        {
+            "author": "Markus Hadwiger",
+            "community": 17
+        },
+        {
+            "author": "Torsten M\u00f6ller",
+            "community": 17
+        },
+        {
+            "author": "Anna Vilanova",
+            "community": 17
+        },
+        {
+            "author": "Marcel Breeuwer",
+            "community": 17
+        },
+        {
+            "author": "Kai Xu",
+            "community": 17
+        },
+        {
+            "author": "Ivan Viola",
+            "community": 17
+        },
+        {
+            "author": "Melanie Tory",
+            "community": 17
+        },
+        {
+            "author": "Tamara Munzner",
+            "community": 17
+        },
+        {
+            "author": "Harald Piringer",
+            "community": 17
+        },
+        {
+            "author": "Sarah Goodwin",
+            "community": 17
+        },
+        {
+            "author": "Elmar Eisemann",
+            "community": 17
+        },
+        {
+            "author": "Jason Dykes",
+            "community": 17
+        },
+        {
+            "author": "Jo Wood",
+            "community": 17
+        },
+        {
+            "author": "Boudewijn P.F. Lelieveldt",
+            "community": 17
+        },
+        {
+            "author": "Gordon L. Kindlmann",
+            "community": 17
+        },
+        {
+            "author": "M. Garland",
+            "community": 18
+        },
+        {
+            "author": "M.H. Gross",
+            "community": 19
+        },
+        {
+            "author": "Hendrik Strobelt",
+            "community": 20
+        },
+        {
+            "author": "Daniel A. Keim",
+            "community": 20
+        },
+        {
+            "author": "Georgia Albuquerque",
+            "community": 20
+        },
+        {
+            "author": "D.A. Keim",
+            "community": 20
+        },
+        {
+            "author": "Doris Dransch",
+            "community": 20
+        },
+        {
+            "author": "Daniela Oelke",
+            "community": 20
+        },
+        {
+            "author": "Holger Theisel",
+            "community": 20
+        },
+        {
+            "author": "Michael Behrisch",
+            "community": 20
+        },
+        {
+            "author": "Aritra Dasgupta",
+            "community": 20
+        },
+        {
+            "author": "Josua Krause",
+            "community": 20
+        },
+        {
+            "author": "Martin Eisemann",
+            "community": 20
+        },
+        {
+            "author": "Marcus Magnor",
+            "community": 20
+        },
+        {
+            "author": "Enrico Bertini",
+            "community": 20
+        },
+        {
+            "author": "Andrada Tatu",
+            "community": 20
+        },
+        {
+            "author": "Tino Weinkauf",
+            "community": 20
+        },
+        {
+            "author": "Adam Perer",
+            "community": 20
+        },
+        {
+            "author": "Mike Sips",
+            "community": 20
+        },
+        {
+            "author": "Hans-Peter Seidel",
+            "community": 20
+        },
+        {
+            "author": "Daniel Keim",
+            "community": 20
+        },
+        {
+            "author": "Oliver Deussen",
+            "community": 20
+        },
+        {
+            "author": "Dirk J. Lehmann",
+            "community": 20
+        },
+        {
+            "author": "Jorn Schneidewind",
+            "community": 20
+        },
+        {
+            "author": "Hans-Christian Hege",
+            "community": 20
+        },
+        {
+            "author": "Ulrik Brandes",
+            "community": 20
+        },
+        {
+            "author": "Christian Rohrdantz",
+            "community": 20
+        },
+        {
+            "author": "Bum Chul Kwon",
+            "community": 20
+        },
+        {
+            "author": "J\u00fcrgen Bernard",
+            "community": 20
+        },
+        {
+            "author": "Florian Mansmann",
+            "community": 20
+        },
+        {
+            "author": "Geoffrey Ellis",
+            "community": 20
+        },
+        {
+            "author": "Halldor Janetzko",
+            "community": 20
+        },
+        {
+            "author": "Umeshwar Dayal",
+            "community": 20
+        },
+        {
+            "author": "Tobias Schreck",
+            "community": 20
+        },
+        {
+            "author": "Andreas Stoffel",
+            "community": 20
+        },
+        {
+            "author": "Dominik Sacha",
+            "community": 20
+        },
+        {
+            "author": "P. Hanrahan",
+            "community": 21
+        },
+        {
+            "author": "P. Schroder",
+            "community": 22
+        },
+        {
+            "author": "M. Gross",
+            "community": 23
+        },
+        {
+            "author": "M. Roth",
+            "community": 23
+        },
+        {
+            "author": "R. Peikert",
+            "community": 23
+        },
+        {
+            "author": "Jing Hua",
+            "community": 24
+        },
+        {
+            "author": "Ming Dong",
+            "community": 24
+        },
+        {
+            "author": "Arie Kaufman",
+            "community": 24
+        },
+        {
+            "author": "Klaus Mueller",
+            "community": 24
+        },
+        {
+            "author": "Xianfeng Gu",
+            "community": 24
+        },
+        {
+            "author": "Michael Gleicher",
+            "community": 25
+        },
+        {
+            "author": "John Stasko",
+            "community": 25
+        },
+        {
+            "author": "Jeffrey Heer",
+            "community": 25
+        },
+        {
+            "author": "Steven Franconeri",
+            "community": 25
+        },
+        {
+            "author": "Matthew Brehmer",
+            "community": 25
+        },
+        {
+            "author": "Matthew Kay",
+            "community": 25
+        },
+        {
+            "author": "Bongshin Lee",
+            "community": 25
+        },
+        {
+            "author": "Maneesh Agrawala",
+            "community": 25
+        },
+        {
+            "author": "Ben Shneiderman",
+            "community": 25
+        },
+        {
+            "author": "Anushka Anand",
+            "community": 25
+        },
+        {
+            "author": "Michael J. McGuffin",
+            "community": 25
+        },
+        {
+            "author": "Chris North",
+            "community": 25
+        },
+        {
+            "author": "Fred Hohman",
+            "community": 25
+        },
+        {
+            "author": "Catherine Plaisant",
+            "community": 25
+        },
+        {
+            "author": "Vidya Setlur",
+            "community": 25
+        },
+        {
+            "author": "Zhicheng Liu",
+            "community": 25
+        },
+        {
+            "author": "Martin Wattenberg",
+            "community": 25
+        },
+        {
+            "author": "Michael Correll",
+            "community": 25
+        },
+        {
+            "author": "Petra Isenberg",
+            "community": 25
+        },
+        {
+            "author": "Tuan Nhon Dang",
+            "community": 25
+        },
+        {
+            "author": "Kim Marriott",
+            "community": 25
+        },
+        {
+            "author": "Justin Talbot",
+            "community": 25
+        },
+        {
+            "author": "Fernanda B. Vi\u00e9gas",
+            "community": 25
+        },
+        {
+            "author": "Samuel Huron",
+            "community": 25
+        },
+        {
+            "author": "Benjamin Bach",
+            "community": 25
+        },
+        {
+            "author": "Wesley Willett",
+            "community": 25
+        },
+        {
+            "author": "Jean-Daniel Fekete",
+            "community": 25
+        },
+        {
+            "author": "Pierre Dragicevic",
+            "community": 25
+        },
+        {
+            "author": "Ravin Balakrishnan",
+            "community": 25
+        },
+        {
+            "author": "Fernanda B. Viegas",
+            "community": 25
+        },
+        {
+            "author": "Youn-ah Kang",
+            "community": 25
+        },
+        {
+            "author": "Marian D\u00f6rk",
+            "community": 25
+        },
+        {
+            "author": "Johanna Beyer",
+            "community": 25
+        },
+        {
+            "author": "Danyel Fisher",
+            "community": 25
+        },
+        {
+            "author": "Tim Dwyer",
+            "community": 25
+        },
+        {
+            "author": "Jock Mackinlay",
+            "community": 25
+        },
+        {
+            "author": "Christopher Collins",
+            "community": 25
+        },
+        {
+            "author": "Yvonne Jansen",
+            "community": 25
+        },
+        {
+            "author": "Maxime Cordeil",
+            "community": 25
+        },
+        {
+            "author": "Frank van Ham",
+            "community": 25
+        },
+        {
+            "author": "Donghao Ren",
+            "community": 25
+        },
+        {
+            "author": "Romain Vuillemot",
+            "community": 25
+        },
+        {
+            "author": "Anastasia Bezerianos",
+            "community": 25
+        },
+        {
+            "author": "Scotland Leman",
+            "community": 25
+        },
+        {
+            "author": "Michael Wybrow",
+            "community": 25
+        },
+        {
+            "author": "Steven M. Drucker",
+            "community": 25
+        },
+        {
+            "author": "Nathalie Henry Riche",
+            "community": 25
+        },
+        {
+            "author": "Christophe Hurter",
+            "community": 25
+        },
+        {
+            "author": "Pat Hanrahan",
+            "community": 25
+        },
+        {
+            "author": "Krist Wongsuphasawat",
+            "community": 25
+        },
+        {
+            "author": "Fanny Chevalier",
+            "community": 25
+        },
+        {
+            "author": "Mary Czerwinski",
+            "community": 25
+        },
+        {
+            "author": "George Robertson",
+            "community": 25
+        },
+        {
+            "author": "Charles Perin",
+            "community": 25
+        },
+        {
+            "author": "Leanna House",
+            "community": 25
+        },
+        {
+            "author": "Jessica Hullman",
+            "community": 25
+        },
+        {
+            "author": "Dominik Moritz",
+            "community": 25
+        },
+        {
+            "author": "Sheelagh Carpendale",
+            "community": 25
+        },
+        {
+            "author": "Leland Wilkinson",
+            "community": 25
+        },
+        {
+            "author": "Michael Bostock",
+            "community": 25
+        },
+        {
+            "author": "Minsuk Kahng",
+            "community": 25
+        },
+        {
+            "author": "Naren Ramakrishnan",
+            "community": 25
+        },
+        {
+            "author": "Kanit Wongsuphasawat",
+            "community": 25
+        },
+        {
+            "author": "Alexander Lex",
+            "community": 26
+        },
+        {
+            "author": "R\u00fcdiger Westermann",
+            "community": 26
+        },
+        {
+            "author": "Michelle A. Borkin",
+            "community": 26
+        },
+        {
+            "author": "Narayanan Kasthuri",
+            "community": 26
+        },
+        {
+            "author": "Jens Schneider",
+            "community": 26
+        },
+        {
+            "author": "Won-Ki Jeong",
+            "community": 26
+        },
+        {
+            "author": "Jeff W. Lichtman",
+            "community": 26
+        },
+        {
+            "author": "Marc Streit",
+            "community": 26
+        },
+        {
+            "author": "Ross Whitaker",
+            "community": 26
+        },
+        {
+            "author": "Miriah Meyer",
+            "community": 26
+        },
+        {
+            "author": "Christian Dick",
+            "community": 26
+        },
+        {
+            "author": "Florian Ferstl",
+            "community": 26
+        },
+        {
+            "author": "Nils Gehlenborg",
+            "community": 26
+        },
+        {
+            "author": "Rudiger Westermann",
+            "community": 26
+        },
+        {
+            "author": "Robert M. Kirby",
+            "community": 26
+        },
+        {
+            "author": "Ross T. Whitaker",
+            "community": 26
+        },
+        {
+            "author": "Hanspeter Pfister",
+            "community": 26
+        },
+        {
+            "author": "Dieter Schmalstieg",
+            "community": 26
+        },
+        {
+            "author": "Samuel Gratzl",
+            "community": 26
+        },
+        {
+            "author": "Kai B\u00fcrger",
+            "community": 26
+        },
+        {
+            "author": "Christian Partl",
+            "community": 26
+        },
+        {
+            "author": "Rosane Minghim",
+            "community": 27
+        },
+        {
+            "author": "Fernando V. Paulovich",
+            "community": 27
+        },
+        {
+            "author": "Teng-Yok Lee",
+            "community": 28
+        },
+        {
+            "author": "Christoph Garth",
+            "community": 29
+        },
+        {
+            "author": "Valerio Pascucci",
+            "community": 29
+        },
+        {
+            "author": "Hamish Carr",
+            "community": 29
+        },
+        {
+            "author": "Lauro Lins",
+            "community": 29
+        },
+        {
+            "author": "Gordon Kindlmann",
+            "community": 29
+        },
+        {
+            "author": "Xiaotong Liu",
+            "community": 29
+        },
+        {
+            "author": "Carlos Scheidegger",
+            "community": 29
+        },
+        {
+            "author": "Xavier Tricoche",
+            "community": 29
+        },
+        {
+            "author": "James Ahrens",
+            "community": 29
+        },
+        {
+            "author": "Han-wei Shen",
+            "community": 29
+        },
+        {
+            "author": "Chaoli Wang",
+            "community": 29
+        },
+        {
+            "author": "Carlos Correa",
+            "community": 29
+        },
+        {
+            "author": "Jonathan Woodring",
+            "community": 29
+        },
+        {
+            "author": "Vijay Natarajan",
+            "community": 29
+        },
+        {
+            "author": "Soumya Dutta",
+            "community": 29
+        },
+        {
+            "author": "Bernd Hamann",
+            "community": 29
+        },
+        {
+            "author": "Kenneth I. Joy",
+            "community": 29
+        },
+        {
+            "author": "Hans Hagen",
+            "community": 29
+        },
+        {
+            "author": "Nivan Ferreira",
+            "community": 29
+        },
+        {
+            "author": "Peer-Timo Bremer",
+            "community": 29
+        },
+        {
+            "author": "Aaron Knoll",
+            "community": 29
+        },
+        {
+            "author": "Peter Lindstrom",
+            "community": 29
+        },
+        {
+            "author": "Alexander Wiebel",
+            "community": 29
+        },
+        {
+            "author": "Joshua A. Levine",
+            "community": 29
+        },
+        {
+            "author": "Ingrid Hotz",
+            "community": 29
+        },
+        {
+            "author": "Claudio Silva",
+            "community": 29
+        },
+        {
+            "author": "Julien Tierny",
+            "community": 29
+        },
+        {
+            "author": "Harish Doraiswamy",
+            "community": 29
+        },
+        {
+            "author": "Attila Gyulassy",
+            "community": 29
+        },
+        {
+            "author": "Cl\u00e1udio T. Silva",
+            "community": 29
+        },
+        {
+            "author": "Juliana Freire",
+            "community": 29
+        },
+        {
+            "author": "Gerik Scheuermann",
+            "community": 29
+        },
+        {
+            "author": "Yingcai Wu",
+            "community": 30
+        },
+        {
+            "author": "Wei Chen",
+            "community": 30
+        },
+        {
+            "author": "Song Zhang",
+            "community": 30
+        },
+        {
+            "author": "Yanhong Wu",
+            "community": 30
+        },
+        {
+            "author": "Tai-Quan Peng",
+            "community": 30
+        },
+        {
+            "author": "Baoquan Chen",
+            "community": 30
+        },
+        {
+            "author": "Zuchao Wang",
+            "community": 30
+        },
+        {
+            "author": "Zhiguang Zhou",
+            "community": 30
+        },
+        {
+            "author": "Jiazhi Xia",
+            "community": 30
+        },
+        {
+            "author": "D.H. Laidlaw",
+            "community": 30
+        },
+        {
+            "author": "Kwan-Liu Ma",
+            "community": 30
+        },
+        {
+            "author": "T. Munzner",
+            "community": 30
+        },
+        {
+            "author": "Fangfang Zhou",
+            "community": 30
+        },
+        {
+            "author": "Jian Chen",
+            "community": 30
+        },
+        {
+            "author": "Furu Wei",
+            "community": 30
+        },
+        {
+            "author": "Huamin Qu",
+            "community": 30
+        },
+        {
+            "author": "Pak Chung Wong",
+            "community": 30
+        },
+        {
+            "author": "Xiaoru Yuan",
+            "community": 30
+        },
+        {
+            "author": "V. Interrante",
+            "community": 30
+        },
+        {
+            "author": "Nan Cao",
+            "community": 30
+        },
+        {
+            "author": "Hong Zhou",
+            "community": 30
+        },
+        {
+            "author": "David Gotz",
+            "community": 30
+        },
+        {
+            "author": "Hui Zhang",
+            "community": 30
+        },
+        {
+            "author": "Yuanzhe Chen",
+            "community": 30
+        },
+        {
+            "author": "Lingyun Yu",
+            "community": 30
+        },
+        {
+            "author": "Mengchen Liu",
+            "community": 30
+        },
+        {
+            "author": "Carlos D. Correa",
+            "community": 30
+        },
+        {
+            "author": "Qiaomu Shen",
+            "community": 30
+        },
+        {
+            "author": "Jibonananda Sanyal",
+            "community": 30
+        },
+        {
+            "author": "Conglei Shi",
+            "community": 30
+        },
+        {
+            "author": "Yunhai Wang",
+            "community": 30
+        },
+        {
+            "author": "E.B. Lum",
+            "community": 30
+        },
+        {
+            "author": "Xiting Wang",
+            "community": 30
+        },
+        {
+            "author": "Liu Ren",
+            "community": 30
+        },
+        {
+            "author": "H. Towles",
+            "community": 30
+        },
+        {
+            "author": "H. Fuchs",
+            "community": 30
+        },
+        {
+            "author": "Wei Zeng",
+            "community": 30
+        },
+        {
+            "author": "Ying Zhao",
+            "community": 30
+        },
+        {
+            "author": "Chi-Wing Fu",
+            "community": 30
+        },
+        {
+            "author": "Jun Zhu",
+            "community": 30
+        },
+        {
+            "author": "T.J. Jankun-Kelly",
+            "community": 30
+        },
+        {
+            "author": "Jiachen Wang",
+            "community": 30
+        },
+        {
+            "author": "Yu-Ru Lin",
+            "community": 30
+        },
+        {
+            "author": "D. Auber",
+            "community": 30
+        },
+        {
+            "author": "Shixia Liu",
+            "community": 30
+        },
+        {
+            "author": "Robert Moorhead",
+            "community": 30
+        },
+        {
+            "author": "Jimeng Sun",
+            "community": 30
+        },
+        {
+            "author": "Panpan Xu",
+            "community": 30
+        },
+        {
+            "author": "Weiwei Cui",
+            "community": 30
+        },
+        {
+            "author": "Jian Zhao",
+            "community": 30
+        }
+    ]
+}

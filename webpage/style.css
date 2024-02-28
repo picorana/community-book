@@ -1,0 +1,103 @@
+html, body {
+    width: 100%;
+}
+
+#headline {
+    font-size: 50px;
+}
+
+.authorIcon {
+    font-size: 2rem;
+}
+
+.navbar-nav {
+    display: flex;
+}
+
+#node-link_diagram {
+    width: 100%;
+    height: 400vh;
+    margin: 0 auto;
+    padding: 0;
+    align-items: flex-start;
+}
+
+#wrapper {
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+#visualization {
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+#description {
+    align-self: center;
+}
+
+#background {
+    height: 50vh;
+    width: 100%;
+    align-items: center;
+    background-color: #F0F8FFFF;
+    overflow: hidden;
+}
+
+.nodeDescription, .edgeDescription {
+    text-align: right;
+    visibility: hidden;
+    display: none;
+}
+
+#nld {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: scroll;
+    scroll-snap-type: x mandatory;
+    text-align: center;
+    top: -25%;
+    position: relative;
+}
+
+#nld0, #nld1, #nld2 {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    scroll-snap-align: start;
+    z-index: 0;
+}
+
+.nld_0, .nld_1 {
+    width: 100%;
+    height: 50%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.nld_0 > .col, .nld_1 > .col {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.nld_00, .nld_01, .nld_10, .nld_11 {
+    width: 100%;
+    height: 50%;
+    margin: 0 auto;
+    padding: 0;
+}
